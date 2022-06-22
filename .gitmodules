@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TGS"]
+	path = TGS
+	url = https://github.com/sap01/tgs
+	shallow = true
+	registered = true
